@@ -6,7 +6,6 @@ import tensorflow as tf
 
 """
 K-means聚类算法
-
 """
 
 num_vectors = 1000

@@ -3,8 +3,6 @@ import tensorflow as tf
 
 """
 卷积神经网络（CNN）
-参考 https://github.com/jorditorresBCN/FirstContactWithTensorFlow-2ndEdition
-
 """
 
 mnist = input_data.read_data_sets('MNIST_data', one_hot=True)

@@ -2,9 +2,7 @@ import input_data
 import tensorflow as tf
 
 """
-单层神经网络 
-参考 https://github.com/jorditorresBCN/FirstContactWithTensorFlow-2ndEdition
-
+单层神经网络
 """
 
 mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
