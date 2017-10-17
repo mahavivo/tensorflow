@@ -1,5 +1,4 @@
-# tensorflow
-学习TensorFlow如何使用
+## 学习TensorFlow使用
 
 参考文档 http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/
 
